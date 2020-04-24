@@ -6,21 +6,9 @@ description: Memorize what's needed
 
 ### \*\*\*\*
 
-### \*\*\*\*
-
 ### **An introduction to Recurrent Neural Networks and its variants for beginners**
 
 \*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-#### 
-
-#### 
-
-#### 
 
 \*\*\*\*
 
