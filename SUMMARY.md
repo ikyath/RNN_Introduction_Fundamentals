@@ -40,3 +40,7 @@
 * [Bidirectional RNN](forecasting-stock-trends-using-rnns/bidirectional-rnn.md)
 * [Stock Trends Prediction using Bidirectional RNNs](forecasting-stock-trends-using-rnns/untitled.md)
 
+## Conclusion
+
+* [Conclusion](conclusion/conclusion.md)
+
