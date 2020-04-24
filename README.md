@@ -27,7 +27,7 @@ description: Memorize what's needed
 ## Authors:
 
 * Satya Ikyath Varma Dantuluri
-* Harika Reddy Gurra
+* Harika Reddy Gurram
 
 ## **Mentor:** <a id="mentor"></a>
 

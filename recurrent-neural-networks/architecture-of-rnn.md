@@ -1,19 +1,18 @@
 # Architecture of RNN
 
-The below image show a RNN being unfolded to a full network, x\_t is input to the network at time t, h\_t is the hidden state at time t also referred to as the memory of the network. It is calculated based on previous hidden state and current input.
+The below image shows an RNN being unfolded to a full network, $$x_t$$is input to the network at time t, $$h_t$$is the hidden state at time t also referred to as the memory of the network. It is calculated based on previous hidden state and current input.
 
-Represented by
-
-ℎ\_𝑡=𝑓\(𝑈𝑥\_𝑡+𝑊ℎ\_𝑡−1+𝑏\_ℎ\)  
-
+Represented by $$h_t= f(Ux_t + Wh_t +b_h) $$
 
 ![](../.gitbook/assets/rnn.png)
 
-Here U and W are weights for input and previous state value input, 𝑏ℎbh is the bias associated to the hidden network and f is the non-linearity applied to the sum to generate final cell state.
+Here U and W are weights for input and previous state value input respectively, $$b_h $$is the bias associated to the hidden network and f is the non-linearity applied to the sum to generate final cell state.
 
-And ou**t**put at time t is calculated as shown below :
+And output at time t is calculated as shown below :
 
-𝑂\_𝑡=𝑓\(𝑊ℎ\_𝑡+𝑏\_0\)
+$$O_t = f(Wh_t + b_o) $$ 
 
-b\_0 is the bias for the output layer
+$$b_o $$ is the bias for the output layer
+
+Now, having understood about the maths behind the architecture of an RNN , lets see how to train the network.
 
