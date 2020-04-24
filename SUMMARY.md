@@ -17,8 +17,8 @@
 
 ## Gated Recurrent Unit
 
-* [GRU](gru.md)
-* [Architecture of GRU](architecture-of-gru.md)
+* [GRU](gated-recurrent-unit/gru.md)
+* [Architecture of GRU](gated-recurrent-unit/architecture-of-gru.md)
 
 ## Activation Functions
 
@@ -44,5 +44,9 @@
 ## Conclusion
 
 * [Conclusion](conclusion/conclusion.md)
-* [References](references.md)
+* [References](conclusion/references.md)
+
+## License
+
+* [License](license/license.md)
 
