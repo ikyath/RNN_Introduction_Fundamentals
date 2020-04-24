@@ -1,4 +1,4 @@
-# Untitled
+# Stock Trends Prediction using Bidirectional RNNs
 
 For the same problem mentioned in LSTM Example
 

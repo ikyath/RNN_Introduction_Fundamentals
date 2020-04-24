@@ -38,5 +38,5 @@
 * [Alpha Vantage API](forecasting-stock-trends-using-rnns/alpha-vantage-api.md)
 * [Stock Trends Prediction using LSTM.](forecasting-stock-trends-using-rnns/data.md)
 * [Bidirectional RNN](forecasting-stock-trends-using-rnns/bidirectional-rnn.md)
-* [Untitled](forecasting-stock-trends-using-rnns/untitled.md)
+* [Stock Trends Prediction using Bidirectional RNNs](forecasting-stock-trends-using-rnns/untitled.md)
 
