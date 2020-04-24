@@ -1,7 +1,5 @@
 # Various Methods in Regularization
 
-
-
 Regularization refers to controlling the capacity of neural network and prevent it from overfitting. For a better training of RNN, we seperate some part of training dataset to validation dataset. The validation set is used to watch the training process and prevent the network from underfitting or overfitting. Overfitting refers to the difference between training loss and validation loss.
 
 * The L1 and L2 regularization method add a regularization term to a loss function to penalize certain parameter configuration and prevent the coefficients from fitting so perfectly to the training data which leads to overfitting
