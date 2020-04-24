@@ -30,6 +30,7 @@
 ## Applications of RNNs
 
 * [Various Applications in RNN](applications-of-rnns/various-applications-in-rnn.md)
+* [RNN Movie](applications-of-rnns/rnn-movie.md)
 
 ## Forecasting Stock Trends using RNNs
 
