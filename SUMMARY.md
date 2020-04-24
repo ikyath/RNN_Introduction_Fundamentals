@@ -35,5 +35,5 @@
 
 * [Objective](forecasting-stock-trends-using-rnns/objective.md)
 * [Alpha Vantage API](forecasting-stock-trends-using-rnns/alpha-vantage-api.md)
-* [Data](forecasting-stock-trends-using-rnns/data.md)
+* [Stocks](forecasting-stock-trends-using-rnns/data.md)
 
