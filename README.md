@@ -1,4 +1,4 @@
-**##Content** - 
+**Content** -  
 
 RNN and LSTMs 
 - Introduction to RNNs, its Architecuture and applications
