@@ -22,15 +22,15 @@ description: Memorize what's needed
 
 #### 
 
+#### 
+
+\*\*\*\*
+
 #### Authors ****
 
 Satya Ikyath Varma Dantuluri
 
 Harika Reddy Gurram
-
-\*\*\*\*
-
-## 
 
 
 
