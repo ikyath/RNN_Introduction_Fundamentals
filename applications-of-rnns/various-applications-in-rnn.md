@@ -1,4 +1,4 @@
-# Various Applications in RNN
+# Various Applications of RNN
 
 Lets look at some of areas where RNNs are used extensively
 
@@ -29,4 +29,6 @@ Used for classifying an image to a class, by learning through a set of features 
 #### Handwritten digit recognition and speech recognition <a id="Handwritten-digit-recognition-and-speech-recognition"></a>
 
 Google alexa, Amazon echo, Apple siri are examples of speech recognition where machine understands the language and performed actions accordingly.
+
+Let us look at another interesting application of RNN - RNNs Movie
 

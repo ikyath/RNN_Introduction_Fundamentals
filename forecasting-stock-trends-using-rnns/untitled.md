@@ -1,6 +1,6 @@
 # Stock Trends Prediction using Bidirectional RNNs
 
-For the same problem mentioned in LSTM Example
+For the same problem mentioned in LSTM Example, lets try to predict the prices using Bidirectional LSTM
 
 {% page-ref page="data.md" %}
 

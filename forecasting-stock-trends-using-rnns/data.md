@@ -1,5 +1,7 @@
 # Stock Trends Prediction using LSTM.
 
+**Here we have taken the historical data of Apple stocks from Alpha-Vantage API to predict the trends using LSTM** 
+
 **Apple stock trends over the years**
 
 ![Screenshot from Code](../.gitbook/assets/screenshot-2020-04-24-at-10.18.08.png)
