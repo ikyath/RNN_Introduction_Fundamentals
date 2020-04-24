@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Recurrent Neural Networks](README.md)
-* [TimeSeries](timeseries.md)
+* [Forecasting using Recurrent Neural Networks](README.md)
+* [Sequence Data](timeseries.md)
 
