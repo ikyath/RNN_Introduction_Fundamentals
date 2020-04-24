@@ -22,15 +22,15 @@ description: Memorize what's needed
 
 #### 
 
-#### 
-
 \*\*\*\*
 
-#### Authors ****
+## Authors:
 
-Satya Ikyath Varma Dantuluri
+* Satya Ikyath Varma Dantuluri
+* Harika Reddy Gurra
 
-Harika Reddy Gurram
+## **Mentor:** <a id="mentor"></a>
 
-
+**Nicholas Brown** \(Assistant Teaching Professor, Multidisciplinary Graduate Engineering Programs, Northeastern University\)[  
+](https://maheshwarappa-a.gitbook.io/ads/introduction)
 
