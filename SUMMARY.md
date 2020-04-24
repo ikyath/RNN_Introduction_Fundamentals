@@ -21,5 +21,13 @@
 
 ## Activation Functions
 
-* [Untitled](activation-functions/untitled.md)
+* [Various Activation Functions](activation-functions/untitled.md)
+
+## Regularization of Neural Networks
+
+* [Various Methods in Regularization](regularization-of-neural-networks/various-methods-in-regularization.md)
+
+## Applications of RNNs
+
+* [Various Applications in RNN](applications-of-rnns/various-applications-in-rnn.md)
 
