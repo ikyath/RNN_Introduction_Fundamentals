@@ -2,7 +2,7 @@
 
 
 
-**The whole idea of Gated Recurrent models is to get more direct evidence of the effect of early time steps on much later time steps without having to long sequence matrix multiplications**
+**The whole idea of Gated Recurrent models is to get more direct evidence of the effect of early time steps on much later time steps without having too long sequence matrix multiplications**
 
 We can create shortcut connections
 
