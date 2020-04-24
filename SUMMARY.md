@@ -31,3 +31,7 @@
 
 * [Various Applications in RNN](applications-of-rnns/various-applications-in-rnn.md)
 
+## Forecasting Stock Trends using RNNs
+
+* [Objective](forecasting-stock-trends-using-rnns/objective.md)
+
