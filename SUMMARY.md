@@ -1,4 +1,5 @@
 # Table of contents
 
-* [RNN\_Introduction\_Fundamentals](README.md)
+* [Recurrent Neural Networks](README.md)
+* [TimeSeries](timeseries.md)
 

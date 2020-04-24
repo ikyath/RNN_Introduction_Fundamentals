@@ -1,4 +1,2 @@
-# RNN\_Introduction\_Fundamentals
-
-RNNs
+# Recurrent Neural Networks
 
