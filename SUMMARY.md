@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Forecasting using Recurrent Neural Networks](README.md)
+* [Recurrent Neural Networks and LSTM](README.md)
+* [Forecasting](forecasting.md)
 * [Sequence Data](timeseries.md)
 
 ## Recurrent Neural Networks
